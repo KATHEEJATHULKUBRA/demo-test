@@ -185,4 +185,11 @@ body{
 .box1 h4{
     font-size: 22px;
 }
+footer h3{
+    text-align: center;
+    color: gray;
+    font-size: 18px;
+    margin-bottom:10px ;
+
+}
 
